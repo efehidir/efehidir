@@ -1,5 +1,5 @@
 <h2 align="left">Merhaba</h2>
-   <p align="left">Merhaba Ben <a href="">,Efe</a>, Efe Hıdır. Teknolojiyi ve yazılımı yakından takip eder araştırır ve öğrenirim.</p>  
+   <p align="left">Merhaba Ben <a href="">Efe</a>, Efe Hıdır. Teknolojiyi ve yazılımı yakından takip eder araştırır ve öğrenirim.</p>  
 <h3>Sosyal Medya Hesaplarım:</h3>
 <p align="left">
    <a href="https://discord.com/users/411519788842483712" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
