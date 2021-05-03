@@ -1,5 +1,5 @@
 <h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-   <p align="left">Merhaba Ben Efe, Efe Hıdır. Teknolojiyi ve yazılımı yakından takip eder araştırır ve öğrenirim.</p>  
+   <p align="left">Merhaba ben Efe, Efe Hıdır. Teknolojiyi ve yazılımı yakından takip eder araştırır ve öğrenirim.</p>  
 <h3>Sosyal Medya Hesaplarım:</h3>
 <p align="left">
    <a href="https://discord.com/users/411519788842483712" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
