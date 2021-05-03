@@ -1,4 +1,4 @@
-<h2 align="left">Merhaba</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Merhaba Ben Efe, Efe Hıdır. Teknolojiyi ve yazılımı yakından takip eder araştırır ve öğrenirim.</p>  
 <h3>Sosyal Medya Hesaplarım:</h3>
 <p align="left">
