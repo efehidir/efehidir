@@ -6,7 +6,7 @@
    <a href="https://github.com/efehidir" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <div align="center">
-    <a href="https://discord.com/users/411519788842483712" title="Discord Hesabım"><img src="https://lanyard-profile-readme.vercel.app/api/382612768924368906"></a>
+    <a href="https://discord.com/users/411519788842483712" title="Discord Hesabım"><img src="https://lanyard-profile-readme.vercel.app/api/411519788842483712"></a>
 </div>
 <h3>Hakkımda:</h3>
 <ul>
