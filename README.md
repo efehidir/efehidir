@@ -10,8 +10,6 @@
 </div>
 <h3>Hakkımda:</h3>
 <ul>
-  <li>✌️ Yazılımı severim.</li>
-  <li>☀️ Güneşli havaları severim.</li>
   <li>📫 Eğer istersen bana <a href="https://discord.com/users/411519788842483712" target"blank_">Discord</a> üzerinden ulaşabilirsin!</li>
 </ul>
 <h3>Öğrendiğim Yazılım Dilleri / Çalıştırma Ortamları:</h3>
